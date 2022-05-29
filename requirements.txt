@@ -1,0 +1,5 @@
+quiskit
+pdflatex
+pillow
+pylatexenc
+matplotlib
