@@ -1,4 +1,4 @@
-quiskit
+qiskit
 pdflatex
 pillow
 pylatexenc
